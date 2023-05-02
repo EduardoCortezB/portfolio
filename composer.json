@@ -1,0 +1,16 @@
+{
+    "name": "portfolio/edc",
+    "description": "Portfolio of Eduardo Cortez",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Portfolio\\Edc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eduardo Cortez"
+        }
+    ],
+    "require": {}
+}

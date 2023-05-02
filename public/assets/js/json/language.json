@@ -1,0 +1,45 @@
+[
+    {
+        "language": 
+        {
+            "es": 
+            {
+                "about_me":"Acerca de mí",
+                "title_presentation":"Desarrollador web &amp; Fullstack.",
+                "description_profile":"Hola, soy estudiante de informática, en la carrera de desarrollo de software multiplataforma, me apasionan las nuevas tecnologías, dentro de esto estoy siguiendo mi especialización en desarrollo web backend. Me gusta trabajar en equipo, soy responsable y práctico.",
+                "birthday":"Cumpleaños",
+                "website":"Sitio web",
+                "phone":"Tel.",
+                "city":"Ciudad",
+                "age":"Edad",
+                "freelance":"Freelace",
+                "available":"Disponible",
+                "skills":"Habilidades Técnicas",
+                "description_lang":"Como estudiante y mi experiencia como programador, estas son mis habilidades tecnicas.",
+                "portfolio_tittle":"Portafolio",
+                "desc_portfolio":"Éste es mi CV.",
+                "contact_tittle":"Contacto",
+                "tel":"Tel."
+            },
+            "en":
+            {
+                "about_me":"About me",
+                "title_presentation":"FullStack &amp; Web Developer.",
+                "description_profile":"Hello, I am a student in information technology, in the career of multiplatform software development, I am passionate about new technologies, within this I am following my specialization in backend web development. I like to work in a team, I am responsible and practical.",
+                "birthday":"Birthday",
+                "website":"Website",
+                "phone":"Phone.",
+                "city":"City",
+                "age":"Age",
+                "freelance":"Freelace",
+                "available":"Available",
+                "skills":"Skills",
+                "description_lang":"Like a student and my experience as programmer I have the next skills.",
+                "portfolio_tittle":"Portfolio",
+                "desc_portfolio":"Thats my CV",
+                "contact_tittle":"Contact",
+                "tel":"Phone"
+            }
+        }
+    }
+]
